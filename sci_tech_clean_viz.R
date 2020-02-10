@@ -294,7 +294,7 @@ sci_tech_long %>%
   ggtitle("Number of Comments in Science and Technology by Year") +
   xlab("Year") +
   ylab("Number of comments")
-ggsave("years_sci_views.png", dpi = 900)
+ggsave("years_sci_comments.png", dpi = 900)
 
 sci_tech_long %>%
   ggplot(aes(x = date, y = num_translations)) +
