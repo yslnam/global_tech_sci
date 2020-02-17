@@ -22,6 +22,9 @@
 # Jupyter notebook
 *.ipynb  text
 
+# Override linguist
+*.R linguist-language=Python
+
 # Note: .db, .p, and .pkl files are associated
 # with the python modules ``pickle``, ``dbm.*``,
 # ``shelve``, ``marshal``, ``anydbm``, & ``bsddb``
