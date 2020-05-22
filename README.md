@@ -1,5 +1,5 @@
 # Trends in Global Issues, Science, and Technology
-A project-based repository containing Macro Risk, an interactive data visualization and exploratory data analysis tool
+A project-based repository containing scraped TED Talks and statistical analysis of "trendiness." Languages: Python, R
 
 Project:
 * Title: 
