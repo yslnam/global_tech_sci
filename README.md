@@ -2,10 +2,10 @@
 A project-based repository containing scraped TED Talks and statistical analysis of "trendiness." Languages: Python, R
 
 Project:
-* Title: 
-* Purpose: 
-* Description: 
-* Blog: 
+* Title: "Scraping TED Talks: Trends in Global Issues, Science, and Technology"
+* Purpose: Understanding different methods and different measures of trendiness inform trends, using TED Talks on global issues/technology and science/technology as a case study.
+* Description: A longitudinal examination of trendiness of TED Talks on global issues, science, and technology. After extracting and transforming unstructured data from multimedia content, different methods and different measures of trendiness were used to inform analysis. Taken together, both methods reveal different sides of the story behind the numbers, as well as the evolution of trends. A composite measure of trendiness was constructed to gain a deeper understanding of the overall trending landscape.
+* Blog: "[Scraping TED Talks: Trends in Global Issues, Science, and Technology](https://nycdatascience.com/blog/student-works/web-scraping/scraping-ted-talks/)"
 
 Technical notes:
 * Languages: Python, R
